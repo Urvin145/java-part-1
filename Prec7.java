@@ -1,7 +1,6 @@
 import java.lang.Math;
 public class Prec7 {
-    //Created by HARSH PATEL
-    //ID NO 21CE090
+    
     public static void main(String[] args) {
         int n;
         for (int i = 0; i < 8; i++) {
